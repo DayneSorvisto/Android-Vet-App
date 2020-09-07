@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951268441168",
+    "firebase_url": "https://remotevetapp.firebaseio.com",
+    "project_id": "remotevetapp",
+    "storage_bucket": "remotevetapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951268441168:android:796dc6c9d7db8847f4a555",
+        "android_client_info": {
+          "package_name": "com.example.remotevetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951268441168-fb388o8shd345j1r15qj80s4uvkr5dal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-kANherUT6j8EmXb12jYQovOt1ZKPvKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951268441168-fb388o8shd345j1r15qj80s4uvkr5dal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
